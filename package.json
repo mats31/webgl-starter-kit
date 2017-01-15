@@ -34,6 +34,7 @@
     "mobile-detect": "*",
     "raf": "^3.3.0",
     "three": "^0.83.0",
+    "three-orbit-controls": "^82.1.0",
     "vue": "^2.1.7",
     "vue-router": "^2.1.1"
   },
